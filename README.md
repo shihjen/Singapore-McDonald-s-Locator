@@ -1,6 +1,16 @@
 ## 🍟 Singapore McDonald's Locator
 This repository contains a simple Python script to scrape and geolocate the addresses of all McDonald's restaurants in Singapore. The final output is a CSV file containing the restaurant name, address, postal code, latitude, and longitude.
 
+### 📊 Potential Use Cases for the Dataset
+#### 🍔 Healthcare and Lifestyle Studies
+McDonald's locations can be a data point in studies examining the relationship between the built environment and public health. 
+- Obesity Rate Correlation: Investigate the relationship between the density of fast-food restaurants (represented by McDonald's) in a neighborhood and the local obesity rates or chronic disease prevalence. This can inform public health interventions.
+
+#### 🏡 Property and Real Estate Analysis
+The dataset can be used as a proxy for commercial activity or foot traffic, which often influences property values.
+- Impact on Selling Price: Analyze the correlation between the distance to the nearest McDonald's and the average property selling price of residential or commercial units. Some buyers might value the convenience, while others might prefer a quieter, less commercial location.
+- Rental Yield Modeling: Use the density of McDonald's within a planning area as a factor in predicting rental yields, as these areas typically have high population density and accessible amenities.
+
 ### ⚙️ How It Works
 The script performs two main steps:
 
