@@ -17,3 +17,17 @@ You can install the necessary packages using pip:
 pip install -r requirements.txt
 ```
 
+### 🚀 Usage
+Execute the Python scripts from your terminal:
+```
+python main.py
+```
+
+```
+python coordinate.py
+```
+
+Upon completion, two files will be generated in the same directory:
+
+1. mcd.csv: An intermediate file containing the raw scraped data and postal codes.
+2. Singapore_McDonald.csv: The final dataset including the Latitude and Longitude columns.
